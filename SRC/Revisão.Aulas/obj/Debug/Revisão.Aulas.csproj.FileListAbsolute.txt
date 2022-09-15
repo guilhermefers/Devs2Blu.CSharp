@@ -1,0 +1,8 @@
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\bin\Debug\Revisão.Aulas.exe.config
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\bin\Debug\Revisão.Aulas.exe
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\bin\Debug\Revisão.Aulas.pdb
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\obj\Debug\Revisão.Aulas.csproj.AssemblyReference.cache
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\obj\Debug\Revisão.Aulas.csproj.SuggestedBindingRedirects.cache
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\obj\Debug\Revisão.Aulas.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\obj\Debug\Revisão.Aulas.exe
+C:\Users\guill\source\repos\Devs2Blu (Revisão)\Revisão.Aulas\SRC\Revisão.Aulas\obj\Debug\Revisão.Aulas.pdb
